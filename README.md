@@ -1,2 +1,2 @@
-# DSA_preparation
+# DSA
 Here we'll learn and code Data Structures and Algorithms
